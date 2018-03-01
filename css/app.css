@@ -26,7 +26,12 @@ display: flex;
 flex-flow: wrap;
 justify-content: center;
 }
-
+.n{
+	position: absolute;
+	height: 90px
+	white:100%;
+	bottom: 100px
+}
 .destination {
 background: #03a9f4;
 box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
@@ -52,4 +57,7 @@ background-color: #03a9f4;
 
 #paris {
 background-color: #d32f2f;
+}
+#algeria{
+	background-color: #d32f2f
 }
